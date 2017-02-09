@@ -5,6 +5,7 @@ aws_secret_access_key = ''
 buckets = [
     {
         'name': '',
-        'host': ''
+        'host': '',
+        'folders': ['media/restrict_access/']
     }
 ]
